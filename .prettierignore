@@ -13,3 +13,9 @@ yarn.lock
 
 # Ignore .gihub folder
 .github
+
+# Ignore .astro folder
+.astro
+
+# Ignore .vscode folder
+.vscode
